@@ -35,10 +35,11 @@ Group Charter:
    
 6. Known conflicts that will take each person away from their work for a prolonged period (off-site interviews, family gatherings, holidays, etc.) or other major class deadlines that will take a person away from the project for more than a day
    
-      Carlos: Out of town Feb 13-15. (will be present for lab presentations )
-      George: Sisters baby shower in Chicago Feb 7-9 (I should be back monday morning/afternoon) Going to NY Feb 14-15(should get back sunday morning)
+      Carlos: Out of town Feb 13-15. (will be present for lab presentations)
    
-7. When and where team meetings will be held.
+      George: Feb 7-9 (I should be back monday morning/afternoon) Feb 14-15 (should get back sunday morning)
+   
+8. When and where team meetings will be held.
 
      Wednesday 3-6pm at duder, Friday 9-12am ad BBB1620(lab time)
 		 
